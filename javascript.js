@@ -14,7 +14,7 @@ function Player(name, health, damageDealt, damageBonus, inventory){
     
 };
 
-/* Area function: 
+/* Area (custom constructor): 
 * name: name of area
 * E: East
 * W: West
