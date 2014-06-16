@@ -42,7 +42,7 @@ var eOfStage1 = new Area("East of Start of Bridge", "It's just a corner.", "You 
 
 var wOfStage1 = new Area("West of Start of Bridge", "There's a lever.", stage1, "You can't go West.", stage1, "You can't go North. You'll just bump into a wall!");
 
-var bridge = new Area("Bridge of Hell", "The bridge is long. Spikes line it. Monsters like to inhabit this bitch...", "You can't go East. You wanna fall off and die?", "C'mon, you can't go West. You'll fall off and stay a resident of Hell forever!", stage1, null);
+var bridge = new Area("Bridge of Hell", "The bridge is long. Spikes line it. Monsters like to inhabit this area...", "You can't go East. You wanna fall off and die?", "C'mon, you can't go West. You'll fall off and stay a resident of Hell forever!", stage1, null);
 //End of Level 1
                      
 
